@@ -26,5 +26,12 @@ nav a {
   color: navy;
   text-decoration: none;
   margin: 10px;
+    hover {
+  color: orange;
+}
+hover {
+  color: orange;
+}
+
 }
 
