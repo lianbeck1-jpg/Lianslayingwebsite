@@ -37,6 +37,13 @@ section {
   border: 2px solid navy;
   border-radius: 12px;
 }
+h2 {
+  color: navy;
+  font-size: 28px;
+  font-family: "Black Ops One", system-ui;
+  font-weight: 400;
+  font-style: normal
+}
 
 
 
