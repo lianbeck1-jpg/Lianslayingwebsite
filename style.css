@@ -5,6 +5,8 @@ h1{
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
+      font-size: 40px;
+
 }
 body {
   background-color: lightblue;
