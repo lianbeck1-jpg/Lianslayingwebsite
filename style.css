@@ -47,6 +47,8 @@ h2 {
 img {
   max-width: 50%;
   border-radius: 12px;
+    padding-top:20px;
+    display: block;
 }
 
 
