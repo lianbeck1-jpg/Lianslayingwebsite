@@ -53,6 +53,12 @@ div {
     display: flex; 
     justify-content: center; 
     }
+footer {
+  background-color: navy;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
 
 
 
